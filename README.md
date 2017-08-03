@@ -1,4 +1,4 @@
-# Analysing data from Uber for DMKD project.
+# Analysing data from Uber for New York City.
 
 ## Introduction
 New York City (NYC) is the most populous city in the United States. It is also the most
